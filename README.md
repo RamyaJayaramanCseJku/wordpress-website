@@ -1,2 +1,2 @@
 # wordpress-website
-created resume with website
+created resume with wordpress 
